@@ -38,7 +38,7 @@ O projeto foi modularizado para separar a lógica de apresentação (GUI), o tra
 
 ## Estrutura de Diretórios src
 
-'''
+```
 src/
 ├── org/
 │   └── volume/
@@ -50,8 +50,7 @@ src/
 │               └── NumberCheck.java
 │
 └── App.java
-
-'''
+```
 
 ## Estrutura de Diretórios lib e bin
 O espaço de trabalho também contém duas pastas por padrão: a pasta para manter fontes - `lib`: a pasta para manter dependências Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
