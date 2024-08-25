@@ -14,7 +14,7 @@ public class App {
     // Método main que inicia a aplicação
     public static void main(String[] args) throws Exception {
 
-        // Instanciar uma inteface gráfica
+        // Instanciar uma interface gráfica
         GUI gui = new GUI();
         gui.show(); // chama o método para a visualização da janela
 
